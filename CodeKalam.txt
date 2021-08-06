@@ -14,8 +14,8 @@ Vayathuku seriyana Tutorial ketaen
 Semi-Colon illatha Python ketaen
 Sys-Out illatha Java ketaen
 React illatha Framework ketaen
-Like ku illatha FaceBook ketaen
-Follow illatha instagram ketaen
+Jannal illatha windows Ketaen
+Updates illatha Android ketaen
 JS illatha Web App ketaen
 Thanae eluthum editor ketaen
 Shift-ay aluthum viralai ketaen
@@ -77,7 +77,7 @@ Sonnal code seiyum IDE ketaen
 Bugs-ai ariyum kangal ketaen
 kaalam kadakum recursion ketaen
 chinna chinna pa dangal pathaen
-periya periya paadangal ketraen
+periya periya paaadangal ketraen
 moodiyillatha source code ketaen
 poliillatha Documentation ketaen
 Thavalum vayathil Youtube ketaen
